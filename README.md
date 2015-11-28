@@ -1,0 +1,3 @@
+# MMA7455L_SPI
+3軸加速度センサMML7455LをArduinoとSPI接続し、Processingで値を読み取るプログラムです。
+Fritzing用回路図あり。
